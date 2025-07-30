@@ -2,6 +2,8 @@
 
 A Puppeteer-based web scraper for extracting Multiple Sequence Alignment (MSA) data from the Soy Superpangenome Orthobrowser.
 
+I have an example csv and output directory for the expected output for that example (feel free to delete the files in the output directory). Theres a known issue where around 30% of the scraped files are corrupted, I think its definitely fixable but looked into yet. 
+
 ## Features
 
 - Automated gene searching using IDs from CSV file
