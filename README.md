@@ -11,7 +11,7 @@ A Puppeteer-based web scraper for extracting Multiple Sequence Alignment (MSA) d
 - Retry logic for failed attempts
 - Progress tracking and time estimation
 - Test mode for validation
-- Headless and visible browser modes
+- Headless and visible browser modes (not well tested)
 
 ## Prerequisites
 
