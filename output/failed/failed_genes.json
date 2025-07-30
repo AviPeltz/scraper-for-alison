@@ -1,0 +1,50 @@
+[
+  {
+    "gene": {
+      "name": "TauD",
+      "id": "Medtr0021s0370"
+    },
+    "error": "Attempted to use detached Frame '2F08E9746B49E9746F5CBF3CEC473B67'.",
+    "timestamp": "2025-07-30T04:21:05.430Z"
+  },
+  {
+    "gene": {
+      "name": "MtPCY10;MtSC3",
+      "id": "Medtr1g105130"
+    },
+    "error": "Attempted to use detached Frame '2386D63F465E8DB0AB503323B4886820'.",
+    "timestamp": "2025-07-30T04:21:56.967Z"
+  },
+  {
+    "gene": {
+      "name": "MtFatM",
+      "id": "Medtr1g109110"
+    },
+    "error": "Attempted to use detached Frame '2386D63F465E8DB0AB503323B4886820'.",
+    "timestamp": "2025-07-30T04:22:01.014Z"
+  },
+  {
+    "gene": {
+      "name": "PP2AB-1",
+      "id": "Medtr1g112940"
+    },
+    "error": "Attempted to use detached Frame '2386D63F465E8DB0AB503323B4886820'.",
+    "timestamp": "2025-07-30T04:22:05.024Z"
+  },
+  {
+    "gene": {
+      "name": "MtKECH1",
+      "id": "Medtr2g012790"
+    },
+    "error": "Attempted to use detached Frame '2386D63F465E8DB0AB503323B4886820'.",
+    "timestamp": "2025-07-30T04:22:09.031Z"
+  },
+  {
+    "gene": {
+      "name": "MtAP2c",
+      "id": "Medtr2g016730"
+    },
+    "error": "Attempted to use detached Frame '2386D63F465E8DB0AB503323B4886820'.",
+    "timestamp": "2025-07-30T04:22:13.036Z"
+  }
+]

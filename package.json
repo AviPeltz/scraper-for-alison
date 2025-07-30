@@ -1,0 +1,20 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "start:enhanced": "node scraper-enhanced.js",
+    "test": "node scraper-enhanced.js --test",
+    "test:headless": "node scraper-enhanced.js --test --headless",
+    "scrape:headless": "node scraper-enhanced.js --headless"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "puppeteer": "^24.15.0"
+  }
+}
